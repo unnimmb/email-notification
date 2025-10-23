@@ -1,0 +1,13 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "MAIL_PROVIDER": "smtp",
+    "DEFAULT_FROM_EMAIL": "no-reply@example.com",
+    "SMTP_HOST": "localhost",
+    "SMTP_PORT": "25",
+    "SMTP_STARTTLS": "0",
+    "LOG_LEVEL": "INFO"
+  }
+}
